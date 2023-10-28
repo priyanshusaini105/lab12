@@ -14,3 +14,5 @@ const height = 5;
 const area = calculateRectangleArea(width, height);
 console.log("The area of the rectangle is: " + area);
 
+
+console.warn("Ujjiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
